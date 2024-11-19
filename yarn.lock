@@ -6357,10 +6357,10 @@ tunnel-agent@^0.6.0:
   dependencies:
     safe-buffer "^5.0.1"
 
-twind@0.15.4:
-  version "0.15.4"
-  resolved "https://registry.yarnpkg.com/twind/-/twind-0.15.4.tgz#e54506e9cb4c404765016c6167c2bf68e21d8086"
-  integrity sha512-/erxZJvb2V0xEs77/vrYiSMjIz1tWhJ9nLMg2TjLsowMiX8SngGMKjYc8Omd3luV8XpynPwv2MthQofawWTbRA==
+twind@0.16.19:
+  version "0.16.19"
+  resolved "https://registry.yarnpkg.com/twind/-/twind-0.16.19.tgz#3338dd33c0e9dbb7e976b843b328d9dba0c39a7d"
+  integrity sha512-/9H7I/Xzji6UZ+x1V8/llcQSAI0bINqpZtvAqqTzuU/qAdzRCnrpaME8x57k8tUu2KbosjSQE85sSwcLBGD1DQ==
   dependencies:
     csstype "^3.0.5"
     htmlparser2 "^6.0.0"

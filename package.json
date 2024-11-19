@@ -35,7 +35,7 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-particles-js": "3.4.1",
-    "twind": "0.15.4"
+    "twind": "0.16.19"
   },
   "devDependencies": {
     "@commitlint/cli": "11.0.0",
